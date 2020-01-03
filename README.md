@@ -8,7 +8,7 @@
 
 2. As we cover so much ground so quickly, this is a boot-camp after all 😎, students are advised to limit absences. Essentially a student who misses more than one class may have great difficulty keeping up with further instruction.
 
-3. Students are expected to complete class assignments, assessments, and portfolio-projects. These assessments and assignments amount to what is the essence of this program, you are a self-taught developer and will be expected to demonstrate your skills to a substantial degree, our coursework will help you do so.
+3. Students are expected to complete class assignments, assessments, and portfolio-projects. These assessments and assignments are essential to this program, you are a self-taught developer and will be expected to demonstrate your skills to a substantial degree, our coursework will help you do so.
 
 ## Pre-Work
 
