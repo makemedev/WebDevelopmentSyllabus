@@ -4,7 +4,7 @@
 
 ## Ground Rules
 
-1. Class meets twice a week, Wednesday's and Sunday's. Wednesday class hours are 7-10PM and Sunday class hours are 4-7PM.
+1. Class meets twice a week, Tuesday's and Sunday's. Tuesday class hours are 7-10PM and Sunday class hours are 4-7PM.
 
 2. As we cover so much ground so quickly, this is a boot-camp after all 😎, students are advised to limit absences. Essentially a student who misses more than one class may have great difficulty keeping up with further instruction.
 
@@ -12,7 +12,7 @@
 
 ## Pre-Work
 
-Before participating in a MakeMeDev cohort students will be asked to complete a battery of prep-work designed to provide a reasonable foundation for learning and exploring those covered concepts in greater depth.
+Before participating in a MakeMeDev cohort students will be asked to complete a battery of prep-work designed to provide a reasonable foundation for learning and exploring those concepts in greater depth.
 
 1. [Learn Command Line](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 
@@ -29,6 +29,9 @@ Before participating in a MakeMeDev cohort students will be asked to complete a 
 
 6. [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
+## Supporting Materials
+- [Interneting Is Hard](https://internetingishard.com/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Curriculum
 
@@ -40,9 +43,9 @@ Before participating in a MakeMeDev cohort students will be asked to complete a 
 
 ### Week 4: Design Fundamentals, making beautiful Websites using industry standard tools
 
-### Week 5: Advanced CSS Concepts; Animations, CSSGrid, MediaQueries, and SCSS
+### Week 5: Advanced CSS Concepts; Animations, Flexbox, CSSGrid, MediaQueries, and SCSS
 
-### Week 6: CSS Frameworks, using tools the pros-use to make sites that scale
+### Week 6: CSS Frameworks, using tools the pros use to make websites that scale
 
 ### Week 7: JavaScript Internals
 
